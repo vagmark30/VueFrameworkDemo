@@ -6,7 +6,7 @@
       dark
     >
       <v-app-bar-nav-icon @click="drawer = true"></v-app-bar-nav-icon>
-      <v-toolbar-title>GSI</v-toolbar-title>
+      <v-toolbar-title>VagMark</v-toolbar-title>
     </v-app-bar>
 
     <!-- Drawer -->
@@ -75,7 +75,7 @@
           class="text-center"
           cols="12"
         >
-          {{ new Date().getFullYear() }} — <strong>GSI implements Vue</strong>
+          {{ new Date().getFullYear() }} — <strong>VagMark implements Vue</strong>
         </v-col>
       </v-footer>
   </v-app>
