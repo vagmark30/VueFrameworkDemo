@@ -2,10 +2,10 @@
 ## Demo on Vue.js, Vuetify framework and DevExtreme Pivot Grid
 
 ### Vue.js, Vuetify framework modal form
-[![N|Solid](https://github.com/vagmark30/VueFrameworkDemo/tree/main/src/img/vue1.png)]
+![alt text](https://raw.githubusercontent.com/vagmark30/VueFrameworkDemo/main/src/img/vue1.png)
 
 ### DevExtreme Pivot Grid
-[![N|Solid](https://github.com/vagmark30/VueFrameworkDemo/tree/main/src/img/vue2.png)]
+![alt text](https://raw.githubusercontent.com/vagmark30/VueFrameworkDemo/main/src/img/vue2.png)
 
 ## Project setup
 ```
